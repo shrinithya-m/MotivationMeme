@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.image{
+    height: 300px;
+    width: 600px;
+    margin-top: 5%;
+    border: 5px solid white;
+}
+
+.heading{
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.text{
+    color:white;
+}
